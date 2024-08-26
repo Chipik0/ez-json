@@ -1,5 +1,5 @@
 # EZ - JSON
-### EZ - JSON provides tools for managing JSON files, simplifying the process of reading, saving and manipulating data stored in JSON format. This is the simplest module that will simplify working with dictionaries and JSON.
+#### EZ - JSON provides tools for managing JSON files, simplifying the process of reading, saving and manipulating data stored in JSON format. This is the simplest module that will simplify working with dictionaries and JSON.
 
 ## Example usage
 You can set the default value that will be returned if there is an error finding the keys.
